@@ -12,7 +12,6 @@ package.json
 firebase.json
 .firebaserc
 .gitignore
-.github/
 
 # Firebase cache
 .firebase/
